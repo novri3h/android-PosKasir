@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <!--IE Compatibility modes-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--Mobile first-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>POS Kasir</title>
+  <meta name="description" content="POS Kasir" />
+
+  <!-- for ios 7 style, multi-resolution icon of 152x152 -->
+  <meta name="apple-mobile-web-app-title" content="POS Kasir">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-barstyle" content="black-translucent">
+  <link rel="apple-touch-icon" href="www/images/icon.png">
+  <!-- for Chrome on Android, multi-resolution icon of 196x196 -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="shortcut icon" sizes="196x196" href="www/images/logo.png">
+  
+  <link rel="stylesheet" href="www/libs/jquery/metismenu/metisMenu.min.css">
+
+  <!-- style -->
+  <link rel="stylesheet" href="www/assets/animate/animate.min.css" type="text/css" />
+  <link rel="stylesheet" href="www/assets/font-awesome/css/font-awesome.min.css" type="text/css" />
+  <link rel="stylesheet" href="www/assets/material-design-icons/material-design-icons.css" type="text/css" />
+  <link rel="stylesheet" href="www/assets/bootstrap/dist/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="www/libs/angular/angular-toaster/toaster.min.css" type="text/css" />
+
+  <!-- Metis core stylesheet -->
+  <link rel="stylesheet" href="www/assets/styles/template.css" type="text/css" >
+  <link rel="stylesheet" href="www/assets/styles/app.css" type="text/css" />
+  <!-- metisMenu stylesheet -->
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body ng-app="app" ng-controller="AppCtrl" class="container" >
+  <div class="app" ui-view></div>
+  <div class="loading" ng-show="loading" ><i class="fa fa-2x fa-circle-o-notch fa-spin"></i></div>
+<script src="www/scripts/app.web.js"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+!function(){"use strict";function a(){var a={restrict:"AC",link:b};return a}function b(a,b,c){b.find("a").bind("click",function(a){var b=angular.element(this).parent(),c=b.parent()[0].querySelectorAll(".active");b.toggleClass("active"),angular.element(c).removeClass("active")})}angular.module("app").directive("uiNav",a)}();

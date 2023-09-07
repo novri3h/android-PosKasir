@@ -1,0 +1,1 @@
+!function(){"use strict";function a(a,b,c){function d(d,e,f){var g=d.$eval(f.uiInclude);a.get(g,{cache:b}).success(function(a){e.replaceWith(c(a)(d))})}var e={restrict:"A",link:d};return e}angular.module("app").directive("uiInclude",a),a.$inject=["$http","$templateCache","$compile"]}();

@@ -1,0 +1,1 @@
+!function(){"use strict";function a(a){var b=a;b.myImage="",b.myCroppedImage="",b.cropType="circle";var c=function(a){var c=a.currentTarget.files[0],d=new FileReader;d.onload=function(a){b.$apply(function(b){b.myImage=a.target.result})},d.readAsDataURL(c)};angular.element(document.querySelector("#fileInput")).on("change",c)}angular.module("app").controller("ImgCropCtrl",a)}();

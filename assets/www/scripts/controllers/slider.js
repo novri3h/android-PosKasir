@@ -1,0 +1,1 @@
+!function(){"use strict";function a(a){function b(a){return"$"+a.toString()}var c=a;c.cost=40,c.range={min:30,max:60},c.currencyFormatting=b}angular.module("app").controller("SliderCtrl",a)}();

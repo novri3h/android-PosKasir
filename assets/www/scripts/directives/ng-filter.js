@@ -1,0 +1,1 @@
+!function(){"use strict";function a(a){return{restrict:"A",require:"ngModel",link:function(b,c,d,e){b.$watch(d.ngModel,function(c){c&&(c=""+c,a(d.ngModel).assign(b,c.toLowerCase().replace(new RegExp(d.filter,"g"),"").replace(/\s+/g,"-")))})}}}angular.module("app").directive("filter",a),a.$inject=["$parse"]}();

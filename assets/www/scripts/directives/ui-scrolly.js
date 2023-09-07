@@ -1,0 +1,1 @@
+!function(){"use strict";function a(){return{restrict:"A",link:function(a,b,c){var d=b[0];b.bind("scroll",function(){d.scrollTop+d.offsetHeight>=d.scrollHeight&&a.$apply(c.scrolly)})}}}angular.module("app").directive("scrolly",a)}();
