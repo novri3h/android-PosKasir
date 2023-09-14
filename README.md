@@ -5,7 +5,7 @@
 
 <div align="justify">POS (Point of Sale) adalah sistem yang digunakan oleh bisnis untuk melakukan transaksi penjualan dengan pelanggan. POS Kasir Android adalah aplikasi atau perangkat lunak kasir yang berjalan pada perangkat Android, seperti tablet atau smartphone, untuk membantu bisnis dalam mengelola transaksi penjualan dan inventaris.</div>
 <br>
-<div align="justify">Kelebihan Aplikasi POS Kasir ini adalah menggunakan koneksi Localhost. Dengan kata lain bisa diakses menggunakan satu jaringan yang sama (local host atau intra) dimana Handphone atau Tablet sebagai server utamanya. Sedangkan untuk Operator bisa diberikan akses yang berbeda-beda antara operator satu dan yang lainnya.</div>
+<div align="justify">Kelebihan Aplikasi POS Kasir ini adalah menggunakan koneksi Localhost. Dengan kata lain bisa diakses menggunakan satu jaringan yang sama (localhost atau intra) dimana Handphone atau Tablet sebagai server utamanya. Sedangkan untuk Operator bisa diberikan akses yang berbeda-beda antara operator satu dan yang lainnya.</div>
 <br>
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
