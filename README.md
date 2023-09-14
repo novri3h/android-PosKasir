@@ -139,7 +139,7 @@ Izinkan (beri Permission) untuk akses kamera etc.
 untuk login awal pemilik toko password : admin
 ```
 
-<div align="justify">Setting nama Toko, Operator (On atau Off Akses menu), dan setting produk (nama produk, harga, barcode).</div>
+<div align="justify">Setting nama Toko, Create Operator (On atau Off Akses menu), dan setting produk (nama produk, harga, barcode).</div>
 <br>
 
 <div align="justify">Untuk User ada 2 fungsi Login User.</div>
