@@ -8,7 +8,7 @@
 <div align="justify">Kelebihan Aplikasi POS Kasir ini adalah menggunakan koneksi Localhost. Dengan kata lain bisa diakses menggunakan satu jaringan yang sama (localhost atau intra) dimana Handphone atau Tablet sebagai server utamanya. Sedangkan untuk Operator bisa diberikan akses yang berbeda-beda antara operator satu dan yang lainnya.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/android-PosKasir/graphs/commit-activity)
 
